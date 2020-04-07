@@ -129,4 +129,4 @@ if __name__ == "__main__":
 
         elif 'exit' in query:
             speak("i will see you again")
-            break
+            exit()
